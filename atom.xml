@@ -6,7 +6,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="http://yoursite.com/"/>
-  <updated>2018-01-18T05:52:09.494Z</updated>
+  <updated>2018-01-18T07:31:27.730Z</updated>
   <id>http://yoursite.com/</id>
   
   <author>
@@ -21,7 +21,7 @@
     <link href="http://yoursite.com/2018/01/18/hello-world2/"/>
     <id>http://yoursite.com/2018/01/18/hello-world2/</id>
     <published>2018-01-18T05:52:04.750Z</published>
-    <updated>2018-01-18T05:52:09.494Z</updated>
+    <updated>2018-01-18T07:31:27.730Z</updated>
     
     <content type="html"><![CDATA[<h1 id="Ochuunn"><a href="#Ochuunn" class="headerlink" title="Ochuunn"></a>Ochuunn</h1><h2 id="特点"><a href="#特点" class="headerlink" title="特点"></a>特点</h2><ul><li>文章界面很清晰，很适合阅读~</li><li>Google Search Console</li><li>Google Analytics</li><li><a href="https://livere.com/" target="_blank" rel="noopener">LiveRe</a> (我去掉了disqus, 国内不翻墙压根连不上)</li><li>打赏</li><li>🎈 页面滚动快捷键 (j, k, t, b, n, m 具体功能自己尝试, console 有提示~)</li></ul><a id="more"></a><h2 id="Demo"><a href="#Demo" class="headerlink" title="Demo"></a>Demo</h2><p><a href="http://ochukai.me" target="_blank" rel="noopener">I am Oliver</a></p><h1 id="⚠-这里很重要-💢💥💖"><a href="#⚠-这里很重要-💢💥💖" class="headerlink" title="⚠ 这里很重要 💢💥💖"></a>⚠ 这里很重要 💢💥💖</h1><figure class="highlight sh"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">npm install hexo-renderer-pug --save</span><br></pre></td></tr></table></figure><h2 id="Install"><a href="#Install" class="headerlink" title="Install"></a>Install</h2><ol><li>In the <code>root</code> directory:</li></ol><figure class="highlight plain"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">$ git clone https://github.com/ochukai/hexo-theme-ochuunn.git themes/ochuunn</span><br></pre></td></tr></table></figure><ol><li>Change the <code>theme</code> property in the <code>config.yml</code> file.</li></ol><figure class="highlight yml"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br></pre></td><td class="code"><pre><span class="line"><span class="comment"># theme: landscape</span></span><br><span class="line"><span class="attr">theme:</span> <span class="string">ochuunn</span></span><br></pre></td></tr></table></figure><h2 id="不足"><a href="#不足" class="headerlink" title="不足"></a>不足</h2><ul><li>不支持 link 类型的文章</li><li>不支持 category，只有 tag</li></ul><p>(在目录的最下面， 是 hexo 的测试文章，按 b 键直达~)</p>]]></content>
     
@@ -37,6 +37,8 @@
 &lt;/ul&gt;
     
     </summary>
+    
+      <category term="Hexo教程2" scheme="http://yoursite.com/categories/Hexo%E6%95%99%E7%A8%8B2/"/>
     
     
       <category term="Testing" scheme="http://yoursite.com/tags/Testing/"/>
@@ -50,7 +52,7 @@
     <link href="http://yoursite.com/2018/01/17/hello-world/"/>
     <id>http://yoursite.com/2018/01/17/hello-world/</id>
     <published>2018-01-17T11:22:14.394Z</published>
-    <updated>2018-01-18T05:30:30.549Z</updated>
+    <updated>2018-01-18T07:31:21.068Z</updated>
     
     <content type="html"><![CDATA[<h1 id="Ochuunn"><a href="#Ochuunn" class="headerlink" title="Ochuunn"></a>Ochuunn</h1><h2 id="特点"><a href="#特点" class="headerlink" title="特点"></a>特点</h2><ul><li>文章界面很清晰，很适合阅读~</li><li>Google Search Console</li><li>Google Analytics</li><li><a href="https://livere.com/" target="_blank" rel="noopener">LiveRe</a> (我去掉了disqus, 国内不翻墙压根连不上)</li><li>打赏</li><li>🎈 页面滚动快捷键 (j, k, t, b, n, m 具体功能自己尝试, console 有提示~)</li></ul><a id="more"></a><h2 id="Demo"><a href="#Demo" class="headerlink" title="Demo"></a>Demo</h2><p><a href="http://ochukai.me" target="_blank" rel="noopener">I am Oliver</a></p><h1 id="⚠-这里很重要-💢💥💖"><a href="#⚠-这里很重要-💢💥💖" class="headerlink" title="⚠ 这里很重要 💢💥💖"></a>⚠ 这里很重要 💢💥💖</h1><figure class="highlight sh"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">npm install hexo-renderer-pug --save</span><br></pre></td></tr></table></figure><h2 id="Install"><a href="#Install" class="headerlink" title="Install"></a>Install</h2><ol><li>In the <code>root</code> directory:</li></ol><figure class="highlight plain"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">$ git clone https://github.com/ochukai/hexo-theme-ochuunn.git themes/ochuunn</span><br></pre></td></tr></table></figure><ol><li>Change the <code>theme</code> property in the <code>config.yml</code> file.</li></ol><figure class="highlight yml"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br></pre></td><td class="code"><pre><span class="line"><span class="comment"># theme: landscape</span></span><br><span class="line"><span class="attr">theme:</span> <span class="string">ochuunn</span></span><br></pre></td></tr></table></figure><h2 id="不足"><a href="#不足" class="headerlink" title="不足"></a>不足</h2><ul><li>不支持 link 类型的文章</li><li>不支持 category，只有 tag</li></ul><p>(在目录的最下面， 是 hexo 的测试文章，按 b 键直达~)</p>]]></content>
     
@@ -66,6 +68,8 @@
 &lt;/ul&gt;
     
     </summary>
+    
+      <category term="Hexo教程1" scheme="http://yoursite.com/categories/Hexo%E6%95%99%E7%A8%8B1/"/>
     
     
       <category term="Testing" scheme="http://yoursite.com/tags/Testing/"/>
