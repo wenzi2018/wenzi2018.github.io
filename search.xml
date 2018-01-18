@@ -1,6 +1,18 @@
 <?xml version="1.0" encoding="utf-8"?>
 <search>
   <entry>
+    <title><![CDATA[博客模板]]></title>
+    <url>%2F2018%2F01%2F18%2Ftemplate%2F</url>
+    <content type="text"><![CDATA[Ochuunn特点 文章界面很清晰，很适合阅读~ Google Search Console Google Analytics LiveRe (我去掉了disqus, 国内不翻墙压根连不上) 打赏 🎈 页面滚动快捷键 (j, k, t, b, n, m 具体功能自己尝试, console 有提示~) DemoI am Oliver ⚠ 这里很重要 💢💥💖1npm install hexo-renderer-pug --save Install In the root directory: 1$ git clone https://github.com/ochukai/hexo-theme-ochuunn.git themes/ochuunn Change the theme property in the config.yml file. 12# theme: landscapetheme: ochuunn 不足 不支持 link 类型的文章 不支持 category，只有 tag (在目录的最下面， 是 hexo 的测试文章，按 b 键直达~)]]></content>
+      <categories>
+        <category>programming</category>
+      </categories>
+      <tags>
+        <tag>模板1</tag>
+        <tag>模板2</tag>
+      </tags>
+  </entry>
+  <entry>
     <title><![CDATA[标签测试文章2]]></title>
     <url>%2F2018%2F01%2F18%2Fhello-world2%2F</url>
     <content type="text"><![CDATA[Ochuunn特点 文章界面很清晰，很适合阅读~ Google Search Console Google Analytics LiveRe (我去掉了disqus, 国内不翻墙压根连不上) 打赏 🎈 页面滚动快捷键 (j, k, t, b, n, m 具体功能自己尝试, console 有提示~) DemoI am Oliver ⚠ 这里很重要 💢💥💖1npm install hexo-renderer-pug --save Install In the root directory: 1$ git clone https://github.com/ochukai/hexo-theme-ochuunn.git themes/ochuunn Change the theme property in the config.yml file. 12# theme: landscapetheme: ochuunn 不足 不支持 link 类型的文章 不支持 category，只有 tag (在目录的最下面， 是 hexo 的测试文章，按 b 键直达~)]]></content>
