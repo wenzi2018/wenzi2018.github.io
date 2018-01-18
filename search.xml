@@ -3,7 +3,7 @@
   <entry>
     <title><![CDATA[〆41227 数字成语接龙 [宠雯]]]></title>
     <url>%2F2018%2F01%2F18%2FnumberIdioms%2F</url>
-    <content type="text"><![CDATA[⚠ 平生不会相思，才会相思，便害相思。 💢💥💖 规则: 每人轮流接替说出一个成语: 1.说出的成语不允许重复 2.成语的第一个字必须是以数字开头 [例如] 一心一意 DemoI am Oliver 1npm install hexo-renderer-pug --save Install In the root directory: 1$ git clone https://github.com/ochukai/hexo-theme-ochuunn.git themes/ochuunn Change the theme property in the config.yml file. 12# theme: landscapetheme: ochuunn 不足 不支持 link 类型的文章 不支持 category，只有 tag (在目录的最下面， 是 hexo 的测试文章，按 b 键直达~)]]></content>
+    <content type="text"><![CDATA[⚠ 平生不会相思，才会相思，便害相思。 💢💥💖 规则: 每人轮流接替说出一个成语: 1.说出的成语不允许重复 2.成语的第一个字必须是以数字开头 [例如] 一心一意]]></content>
       <categories>
         <category>成语接龙</category>
       </categories>

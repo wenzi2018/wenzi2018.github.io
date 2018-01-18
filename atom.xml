@@ -6,7 +6,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="http://yoursite.com/"/>
-  <updated>2018-01-18T10:25:50.438Z</updated>
+  <updated>2018-01-18T10:28:43.142Z</updated>
   <id>http://yoursite.com/</id>
   
   <author>
@@ -21,9 +21,9 @@
     <link href="http://yoursite.com/2018/01/18/numberIdioms/"/>
     <id>http://yoursite.com/2018/01/18/numberIdioms/</id>
     <published>2018-01-18T10:08:31.000Z</published>
-    <updated>2018-01-18T10:25:50.438Z</updated>
+    <updated>2018-01-18T10:28:43.142Z</updated>
     
-    <content type="html"><![CDATA[<p><strong><font color="#5A5AAD">⚠ 平生不会相思，才会相思，便害相思。 💢💥💖 </font></strong></p><p></p><h2><font color="#FF5151">规则: </font>每人轮流接替说出一个成语: 1.说出的成语不允许重复 2.成语的第一个字必须是以数字开头</h2><p></p><p><font style="color: #394F6A; font-size: 20px; font-family: '微软雅黑'">[例如] 一心一意</font><br><a id="more"></a></p><h2 id="Demo"><a href="#Demo" class="headerlink" title="Demo"></a>Demo</h2><p><a href="http://ochukai.me" target="_blank" rel="noopener">I am Oliver</a></p><p><img src="/2018/01/18/numberIdioms/avatar.jpg" alt="你想输入的替代文字" title="sometext"></p><figure class="highlight sh"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">npm install hexo-renderer-pug --save</span><br></pre></td></tr></table></figure><h2 id="Install"><a href="#Install" class="headerlink" title="Install"></a>Install</h2><ol><li>In the <code>root</code> directory:</li></ol><figure class="highlight plain"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">$ git clone https://github.com/ochukai/hexo-theme-ochuunn.git themes/ochuunn</span><br></pre></td></tr></table></figure><ol><li>Change the <code>theme</code> property in the <code>config.yml</code> file.</li></ol><figure class="highlight yml"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br></pre></td><td class="code"><pre><span class="line"><span class="comment"># theme: landscape</span></span><br><span class="line"><span class="attr">theme:</span> <span class="string">ochuunn</span></span><br></pre></td></tr></table></figure><h2 id="不足"><a href="#不足" class="headerlink" title="不足"></a>不足</h2><ul><li>不支持 link 类型的文章</li><li>不支持 category，只有 tag</li></ul><p>(在目录的最下面， 是 hexo 的测试文章，按 b 键直达~)</p>]]></content>
+    <content type="html"><![CDATA[<p><strong><font color="#5A5AAD">⚠ 平生不会相思，才会相思，便害相思。 💢💥💖 </font></strong></p><p></p><h2><font color="#FF5151">规则: </font>每人轮流接替说出一个成语: 1.说出的成语不允许重复 2.成语的第一个字必须是以数字开头</h2><p></p><p><font style="color: #394F6A; font-size: 20px; font-family: '微软雅黑'">[例如] 一心一意</font><br><a id="more"></a></p><p><img src="/2018/01/18/numberIdioms/avatar.jpg" alt="情不知所起" title="那一抹眼角的微笑"></p>]]></content>
     
     <summary type="html">
     
