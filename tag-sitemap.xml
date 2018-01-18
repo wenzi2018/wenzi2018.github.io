@@ -16,15 +16,29 @@
     </url>
 
     <url>
+        <loc>http://yoursite.com/tags/%E6%B4%9E%E6%88%BF%E8%8A%B1%E7%83%9B%E5%A4%9C/</loc>
+        <lastmod>2018-01-18T13:18:16.855Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.2</priority>
+    </url>
+
+    <url>
+        <loc>http://yoursite.com/tags/%E6%B8%B8%E6%88%8F/</loc>
+        <lastmod>2018-01-18T13:18:16.855Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.2</priority>
+    </url>
+
+    <url>
         <loc>http://yoursite.com/tags/%E6%95%B0%E5%AD%97/</loc>
-        <lastmod>2018-01-18T11:44:55.571Z</lastmod>
+        <lastmod>2018-01-18T13:19:58.749Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.2</priority>
     </url>
 
     <url>
         <loc>http://yoursite.com/tags/%E6%88%90%E8%AF%AD/</loc>
-        <lastmod>2018-01-18T11:44:55.571Z</lastmod>
+        <lastmod>2018-01-18T13:19:58.749Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.2</priority>
     </url>
