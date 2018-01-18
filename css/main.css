@@ -1800,9 +1800,6 @@ pre .javascript .function {
   color: #fc6423;
   border: 1px solid #fc6423;
   border-radius: 4px;
-
-  /*禁止rss图标的点击事件*/
-  pointer-events: none;
 }
 .feed-link a i {
   color: #fc6423;
@@ -1834,7 +1831,7 @@ pre .javascript .function {
   width: 4px;
   height: 4px;
   border-radius: 50%;
-  background: #ff81ff;
+  background: #fad416;
 }
 .links-of-blogroll {
   font-size: 13px;
