@@ -3,7 +3,7 @@
 
     <sitemap>
         <loc>http://yoursite.com/post-sitemap.xml</loc>
-        <lastmod>2018-01-18T07:39:39.444Z</lastmod>
+        <lastmod>2018-01-18T08:01:41.133Z</lastmod>
     </sitemap>
 
     <sitemap>
@@ -13,12 +13,12 @@
 
     <sitemap>
         <loc>http://yoursite.com/category-sitemap.xml</loc>
-        <lastmod>2018-01-18T07:39:39.444Z</lastmod>
+        <lastmod>2018-01-18T08:01:41.133Z</lastmod>
     </sitemap>
 
     <sitemap>
         <loc>http://yoursite.com/tag-sitemap.xml</loc>
-        <lastmod>2018-01-18T07:39:39.444Z</lastmod>
+        <lastmod>2018-01-18T08:01:41.133Z</lastmod>
     </sitemap>
 
 </sitemapindex>
