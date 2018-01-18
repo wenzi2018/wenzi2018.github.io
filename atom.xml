@@ -6,7 +6,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="http://yoursite.com/"/>
-  <updated>2018-01-18T10:28:43.142Z</updated>
+  <updated>2018-01-18T10:32:14.724Z</updated>
   <id>http://yoursite.com/</id>
   
   <author>
@@ -21,7 +21,7 @@
     <link href="http://yoursite.com/2018/01/18/numberIdioms/"/>
     <id>http://yoursite.com/2018/01/18/numberIdioms/</id>
     <published>2018-01-18T10:08:31.000Z</published>
-    <updated>2018-01-18T10:28:43.142Z</updated>
+    <updated>2018-01-18T10:32:14.724Z</updated>
     
     <content type="html"><![CDATA[<p><strong><font color="#5A5AAD">⚠ 平生不会相思，才会相思，便害相思。 💢💥💖 </font></strong></p><p></p><h2><font color="#FF5151">规则: </font>每人轮流接替说出一个成语: 1.说出的成语不允许重复 2.成语的第一个字必须是以数字开头</h2><p></p><p><font style="color: #394F6A; font-size: 20px; font-family: '微软雅黑'">[例如] 一心一意</font><br><a id="more"></a></p><p><img src="/2018/01/18/numberIdioms/avatar.jpg" alt="情不知所起" title="那一抹眼角的微笑"></p>]]></content>
     
@@ -47,16 +47,15 @@
     <link href="http://yoursite.com/2018/01/18/template/"/>
     <id>http://yoursite.com/2018/01/18/template/</id>
     <published>2018-01-18T08:08:31.000Z</published>
-    <updated>2018-01-18T10:13:16.890Z</updated>
+    <updated>2018-01-18T10:32:12.245Z</updated>
     
-    <content type="html"><![CDATA[<p><strong><font color="#5A5AAD">Long Awaited Java 9.0 Releasing Thie Week</font></strong></p><h2><font color="#FF5151">InfoQ: </font> The long awaited next release of Java SE, version 9, is being released on September 21, 2017 and with it come some major changes.</h2><font style="color: #394F6A; font-size: 20px; font-family: '微软雅黑'">测试内容啦啦啦</font><a id="more"></a><h1 id="Ochuunn"><a href="#Ochuunn" class="headerlink" title="Ochuunn"></a>Ochuunn</h1><h2 id="特点"><a href="#特点" class="headerlink" title="特点"></a>特点</h2><ul><li>文章界面很清晰，很适合阅读~</li><li>Google Search Console</li><li>Google Analytics</li><li><a href="https://livere.com/" target="_blank" rel="noopener">LiveRe</a> (我去掉了disqus, 国内不翻墙压根连不上)</li><li>打赏</li><li>🎈 页面滚动快捷键 (j, k, t, b, n, m 具体功能自己尝试, console 有提示~)</li></ul><h2 id="Demo"><a href="#Demo" class="headerlink" title="Demo"></a>Demo</h2><p><a href="http://ochukai.me" target="_blank" rel="noopener">I am Oliver</a></p><p><img src="/2018/01/18/template/avatar.jpg" alt="你想输入的替代文字"></p><h1 id="⚠-这里很重要-💢💥💖"><a href="#⚠-这里很重要-💢💥💖" class="headerlink" title="⚠ 这里很重要 💢💥💖"></a>⚠ 这里很重要 💢💥💖</h1><figure class="highlight sh"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">npm install hexo-renderer-pug --save</span><br></pre></td></tr></table></figure><h2 id="Install"><a href="#Install" class="headerlink" title="Install"></a>Install</h2><ol><li>In the <code>root</code> directory:</li></ol><figure class="highlight plain"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">$ git clone https://github.com/ochukai/hexo-theme-ochuunn.git themes/ochuunn</span><br></pre></td></tr></table></figure><ol><li>Change the <code>theme</code> property in the <code>config.yml</code> file.</li></ol><figure class="highlight yml"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br></pre></td><td class="code"><pre><span class="line"><span class="comment"># theme: landscape</span></span><br><span class="line"><span class="attr">theme:</span> <span class="string">ochuunn</span></span><br></pre></td></tr></table></figure><h2 id="不足"><a href="#不足" class="headerlink" title="不足"></a>不足</h2><ul><li>不支持 link 类型的文章</li><li>不支持 category，只有 tag</li></ul><p>(在目录的最下面， 是 hexo 的测试文章，按 b 键直达~)</p>]]></content>
+    <content type="html"><![CDATA[<p><strong><font color="#5A5AAD">⚠  愿得一心人，白头不相离。 💢💥💖 </font></strong></p><p></p><h2><font color="#FF5151">规则: </font>每人轮流接替说出一个成语: 1.说出的成语不允许重复 2.成语的第一个字必须是以数字开头</h2><p></p><p><font style="color: #394F6A; font-size: 20px; font-family: '微软雅黑'">[例如] 一心一意</font><br><a id="more"></a></p><h1 id="Ochuunn"><a href="#Ochuunn" class="headerlink" title="Ochuunn"></a>Ochuunn</h1><h2 id="特点"><a href="#特点" class="headerlink" title="特点"></a>特点</h2><ul><li>文章界面很清晰，很适合阅读~</li><li>Google Search Console</li><li>Google Analytics</li><li><a href="https://livere.com/" target="_blank" rel="noopener">LiveRe</a> (我去掉了disqus, 国内不翻墙压根连不上)</li><li>打赏</li><li>🎈 页面滚动快捷键 (j, k, t, b, n, m 具体功能自己尝试, console 有提示~)</li></ul><h2 id="Demo"><a href="#Demo" class="headerlink" title="Demo"></a>Demo</h2><p><a href="http://ochukai.me" target="_blank" rel="noopener">I am Oliver</a></p><p><img src="/2018/01/18/template/avatar.jpg" alt="你想输入的替代文字"></p><h1 id="⚠-这里很重要-💢💥💖"><a href="#⚠-这里很重要-💢💥💖" class="headerlink" title="⚠ 这里很重要 💢💥💖"></a>⚠ 这里很重要 💢💥💖</h1><figure class="highlight sh"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">npm install hexo-renderer-pug --save</span><br></pre></td></tr></table></figure><h2 id="Install"><a href="#Install" class="headerlink" title="Install"></a>Install</h2><ol><li>In the <code>root</code> directory:</li></ol><figure class="highlight plain"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">$ git clone https://github.com/ochukai/hexo-theme-ochuunn.git themes/ochuunn</span><br></pre></td></tr></table></figure><ol><li>Change the <code>theme</code> property in the <code>config.yml</code> file.</li></ol><figure class="highlight yml"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br></pre></td><td class="code"><pre><span class="line"><span class="comment"># theme: landscape</span></span><br><span class="line"><span class="attr">theme:</span> <span class="string">ochuunn</span></span><br></pre></td></tr></table></figure><h2 id="不足"><a href="#不足" class="headerlink" title="不足"></a>不足</h2><ul><li>不支持 link 类型的文章</li><li>不支持 category，只有 tag</li></ul><p>(在目录的最下面， 是 hexo 的测试文章，按 b 键直达~)</p>]]></content>
     
     <summary type="html">
     
-      &lt;p&gt;&lt;strong&gt;&lt;font color=&quot;#5A5AAD&quot;&gt;Long Awaited Java 9.0 Releasing Thie Week&lt;/font&gt;&lt;/strong&gt;&lt;/p&gt;
-&lt;h2&gt;&lt;font color=&quot;#FF5151&quot;&gt;InfoQ: &lt;/font&gt; The long awaited next release of Java SE, version 9, is being released on September 21, 2017 and with it come some major changes.&lt;/h2&gt;
-
-&lt;font style=&quot;color: #394F6A; font-size: 20px; font-family: &#39;微软雅黑&#39;&quot;&gt;测试内容啦啦啦&lt;/font&gt;
+      &lt;p&gt;&lt;strong&gt;&lt;font color=&quot;#5A5AAD&quot;&gt;⚠  愿得一心人，白头不相离。 💢💥💖 &lt;/font&gt;&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&lt;/p&gt;&lt;h2&gt;&lt;font color=&quot;#FF5151&quot;&gt;规则: &lt;/font&gt;每人轮流接替说出一个成语: 1.说出的成语不允许重复 2.成语的第一个字必须是以数字开头&lt;/h2&gt;&lt;p&gt;&lt;/p&gt;
+&lt;p&gt;&lt;font style=&quot;color: #394F6A; font-size: 20px; font-family: &#39;微软雅黑&#39;&quot;&gt;[例如] 一心一意&lt;/font&gt;&lt;br&gt;&lt;/p&gt;
     
     </summary>
     
