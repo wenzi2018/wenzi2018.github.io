@@ -7,15 +7,15 @@
     </url>
 
     <url>
-        <loc>http://yoursite.com/categories/programming/</loc>
-        <lastmod>2018-01-18T08:58:08.330Z</lastmod>
+        <loc>http://yoursite.com/categories/%E5%8D%9A%E5%AE%A2%E6%A8%A1%E6%9D%BF/</loc>
+        <lastmod>2018-01-18T10:13:16.890Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.2</priority>
     </url>
 
     <url>
         <loc>http://yoursite.com/categories/%E6%88%90%E8%AF%AD%E6%8E%A5%E9%BE%99/</loc>
-        <lastmod>2018-01-18T09:06:48.959Z</lastmod>
+        <lastmod>2018-01-18T10:19:46.826Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.2</priority>
     </url>
