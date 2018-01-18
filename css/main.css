@@ -1831,7 +1831,7 @@ pre .javascript .function {
   width: 4px;
   height: 4px;
   border-radius: 50%;
-  background: #fad416;
+  background: #b58a67;
 }
 .links-of-blogroll {
   font-size: 13px;
@@ -2668,4 +2668,11 @@ embed {
 }
 .links-of-blogroll-inline .links-of-blogroll-item {
   display: inline-block;
+}
+@font-face {
+  font-family: 'cathsgbr';
+  src: url("../fonts/cathsgbr.eot");
+  src: url("../fonts/cathsgbr.eot?#iefix") format('embedded-opentype'), url("../fonts/cathsgbr.woff") format('woff'), url("../fonts/cathsgbr.ttf") format('truetype'), url("../fonts/cathsgbr.svg#cathsgbr") format('svg');
+  font-weight: normal;
+  font-style: normal;
 }
